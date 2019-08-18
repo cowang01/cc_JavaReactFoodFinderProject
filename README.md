@@ -14,7 +14,7 @@ The foodFinderProject uses
 SET UP.
 
 -- from terminal
-  create database foodfinderservice
+  'create database foodfinderservice'
 
 -- from Backend/foodfinderservice
   Open from IntelliJ
@@ -23,10 +23,10 @@ SET UP.
   run FoodfinderserviceApplication
 
 -- from frontend/food_finder in terminal
-  npm install
+  'npm install'
 
 -- from frontend/food_finder in terminal
-  npm install react-router-dom
+  'npm install react-router-dom'
 
 -- from frontend/food_finder in terminal
-  npm start
+  'npm start'
